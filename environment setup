@@ -1,0 +1,5 @@
+install python 3.11 // only few versions of python support LangChain and Open AI
+pipenv installation
+ - pip3 install pipenv
+ Create Pipfile in your project directory
+ 
